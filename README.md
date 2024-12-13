@@ -45,3 +45,6 @@ git clone https://github.com/Mustenaka/brute_demd5
 ```
 python main.py -p md5_mapping.txt 48abc24a5c27f2e32839a9c40268e062
 ```
+
+## PS
+咱们可不要总是忘记自己的管理员帐号密码哟
