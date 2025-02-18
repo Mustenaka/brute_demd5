@@ -164,3 +164,4 @@ cython_debug/
 
 # generate files
 md5_mapping.txt
+md5_mapping_b64.txt
